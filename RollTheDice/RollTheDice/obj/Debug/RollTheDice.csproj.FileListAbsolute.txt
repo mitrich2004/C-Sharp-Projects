@@ -1,0 +1,7 @@
+C:\Job\Projects\C# Projects\C-Sharp-Projects\RollTheDice\RollTheDice\bin\Debug\RollTheDice.exe.config
+C:\Job\Projects\C# Projects\C-Sharp-Projects\RollTheDice\RollTheDice\bin\Debug\RollTheDice.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\RollTheDice\RollTheDice\bin\Debug\RollTheDice.pdb
+C:\Job\Projects\C# Projects\C-Sharp-Projects\RollTheDice\RollTheDice\obj\Debug\RollTheDice.csproj.AssemblyReference.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\RollTheDice\RollTheDice\obj\Debug\RollTheDice.csproj.CoreCompileInputs.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\RollTheDice\RollTheDice\obj\Debug\RollTheDice.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\RollTheDice\RollTheDice\obj\Debug\RollTheDice.pdb
