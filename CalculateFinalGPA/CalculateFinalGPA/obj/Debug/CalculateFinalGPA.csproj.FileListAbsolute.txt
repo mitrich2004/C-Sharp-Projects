@@ -1,0 +1,7 @@
+C:\Job\Projects\C# Projects\C-Sharp-Projects\CalculateFinalGPA\CalculateFinalGPA\bin\Debug\CalculateFinalGPA.exe.config
+C:\Job\Projects\C# Projects\C-Sharp-Projects\CalculateFinalGPA\CalculateFinalGPA\bin\Debug\CalculateFinalGPA.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\CalculateFinalGPA\CalculateFinalGPA\bin\Debug\CalculateFinalGPA.pdb
+C:\Job\Projects\C# Projects\C-Sharp-Projects\CalculateFinalGPA\CalculateFinalGPA\obj\Debug\CalculateFinalGPA.csproj.AssemblyReference.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\CalculateFinalGPA\CalculateFinalGPA\obj\Debug\CalculateFinalGPA.csproj.CoreCompileInputs.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\CalculateFinalGPA\CalculateFinalGPA\obj\Debug\CalculateFinalGPA.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\CalculateFinalGPA\CalculateFinalGPA\obj\Debug\CalculateFinalGPA.pdb
