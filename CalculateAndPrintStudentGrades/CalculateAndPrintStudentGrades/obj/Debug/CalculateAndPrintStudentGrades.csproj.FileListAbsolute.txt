@@ -1,0 +1,7 @@
+C:\Job\Projects\C# Projects\CalculateAndPrintStudentGrades\CalculateAndPrintStudentGrades\bin\Debug\CalculateAndPrintStudentGrades.exe.config
+C:\Job\Projects\C# Projects\CalculateAndPrintStudentGrades\CalculateAndPrintStudentGrades\bin\Debug\CalculateAndPrintStudentGrades.exe
+C:\Job\Projects\C# Projects\CalculateAndPrintStudentGrades\CalculateAndPrintStudentGrades\bin\Debug\CalculateAndPrintStudentGrades.pdb
+C:\Job\Projects\C# Projects\CalculateAndPrintStudentGrades\CalculateAndPrintStudentGrades\obj\Debug\CalculateAndPrintStudentGrades.csproj.AssemblyReference.cache
+C:\Job\Projects\C# Projects\CalculateAndPrintStudentGrades\CalculateAndPrintStudentGrades\obj\Debug\CalculateAndPrintStudentGrades.csproj.CoreCompileInputs.cache
+C:\Job\Projects\C# Projects\CalculateAndPrintStudentGrades\CalculateAndPrintStudentGrades\obj\Debug\CalculateAndPrintStudentGrades.exe
+C:\Job\Projects\C# Projects\CalculateAndPrintStudentGrades\CalculateAndPrintStudentGrades\obj\Debug\CalculateAndPrintStudentGrades.pdb
