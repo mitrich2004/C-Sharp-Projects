@@ -1,0 +1,7 @@
+C:\Job\Projects\C# Projects\C-Sharp-Projects\InspectInventory\InspectInventory\bin\Debug\InspectInventory.exe.config
+C:\Job\Projects\C# Projects\C-Sharp-Projects\InspectInventory\InspectInventory\bin\Debug\InspectInventory.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\InspectInventory\InspectInventory\bin\Debug\InspectInventory.pdb
+C:\Job\Projects\C# Projects\C-Sharp-Projects\InspectInventory\InspectInventory\obj\Debug\InspectInventory.csproj.AssemblyReference.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\InspectInventory\InspectInventory\obj\Debug\InspectInventory.csproj.CoreCompileInputs.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\InspectInventory\InspectInventory\obj\Debug\InspectInventory.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\InspectInventory\InspectInventory\obj\Debug\InspectInventory.pdb
