@@ -1,0 +1,7 @@
+C:\Job\Projects\C# Projects\C-Sharp-Projects\GradeStudents\GradeStudents\bin\Debug\GradeStudents.exe.config
+C:\Job\Projects\C# Projects\C-Sharp-Projects\GradeStudents\GradeStudents\bin\Debug\GradeStudents.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\GradeStudents\GradeStudents\bin\Debug\GradeStudents.pdb
+C:\Job\Projects\C# Projects\C-Sharp-Projects\GradeStudents\GradeStudents\obj\Debug\GradeStudents.csproj.AssemblyReference.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\GradeStudents\GradeStudents\obj\Debug\GradeStudents.csproj.CoreCompileInputs.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\GradeStudents\GradeStudents\obj\Debug\GradeStudents.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\GradeStudents\GradeStudents\obj\Debug\GradeStudents.pdb
