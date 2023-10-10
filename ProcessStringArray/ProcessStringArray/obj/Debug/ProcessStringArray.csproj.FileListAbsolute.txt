@@ -1,0 +1,7 @@
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ProcessStringArray\ProcessStringArray\bin\Debug\ProcessStringArray.exe.config
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ProcessStringArray\ProcessStringArray\bin\Debug\ProcessStringArray.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ProcessStringArray\ProcessStringArray\bin\Debug\ProcessStringArray.pdb
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ProcessStringArray\ProcessStringArray\obj\Debug\ProcessStringArray.csproj.AssemblyReference.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ProcessStringArray\ProcessStringArray\obj\Debug\ProcessStringArray.csproj.CoreCompileInputs.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ProcessStringArray\ProcessStringArray\obj\Debug\ProcessStringArray.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ProcessStringArray\ProcessStringArray\obj\Debug\ProcessStringArray.pdb
