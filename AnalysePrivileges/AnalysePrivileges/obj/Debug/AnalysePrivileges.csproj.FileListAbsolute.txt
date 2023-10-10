@@ -1,0 +1,7 @@
+C:\Job\Projects\C# Projects\C-Sharp-Projects\AnalysePrivileges\AnalysePrivileges\bin\Debug\AnalysePrivileges.exe.config
+C:\Job\Projects\C# Projects\C-Sharp-Projects\AnalysePrivileges\AnalysePrivileges\bin\Debug\AnalysePrivileges.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\AnalysePrivileges\AnalysePrivileges\bin\Debug\AnalysePrivileges.pdb
+C:\Job\Projects\C# Projects\C-Sharp-Projects\AnalysePrivileges\AnalysePrivileges\obj\Debug\AnalysePrivileges.csproj.AssemblyReference.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\AnalysePrivileges\AnalysePrivileges\obj\Debug\AnalysePrivileges.csproj.CoreCompileInputs.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\AnalysePrivileges\AnalysePrivileges\obj\Debug\AnalysePrivileges.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\AnalysePrivileges\AnalysePrivileges\obj\Debug\AnalysePrivileges.pdb
