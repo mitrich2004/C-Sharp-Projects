@@ -1,0 +1,7 @@
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ValidStringInput\ValidStringInput\bin\Debug\ValidStringInput.exe.config
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ValidStringInput\ValidStringInput\bin\Debug\ValidStringInput.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ValidStringInput\ValidStringInput\bin\Debug\ValidStringInput.pdb
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ValidStringInput\ValidStringInput\obj\Debug\ValidStringInput.csproj.AssemblyReference.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ValidStringInput\ValidStringInput\obj\Debug\ValidStringInput.csproj.CoreCompileInputs.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ValidStringInput\ValidStringInput\obj\Debug\ValidStringInput.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ValidStringInput\ValidStringInput\obj\Debug\ValidStringInput.pdb
