@@ -1,0 +1,7 @@
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ValidIntegerInput\ValidIntegerInput\bin\Debug\ValidIntegerInput.exe.config
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ValidIntegerInput\ValidIntegerInput\bin\Debug\ValidIntegerInput.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ValidIntegerInput\ValidIntegerInput\bin\Debug\ValidIntegerInput.pdb
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ValidIntegerInput\ValidIntegerInput\obj\Debug\ValidIntegerInput.csproj.AssemblyReference.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ValidIntegerInput\ValidIntegerInput\obj\Debug\ValidIntegerInput.csproj.CoreCompileInputs.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ValidIntegerInput\ValidIntegerInput\obj\Debug\ValidIntegerInput.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ValidIntegerInput\ValidIntegerInput\obj\Debug\ValidIntegerInput.pdb
