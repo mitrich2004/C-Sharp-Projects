@@ -1,0 +1,7 @@
+C:\Job\Projects\C# Projects\C-Sharp-Projects\RPGBattle\RPGBattle\bin\Debug\RPGBattle.exe.config
+C:\Job\Projects\C# Projects\C-Sharp-Projects\RPGBattle\RPGBattle\bin\Debug\RPGBattle.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\RPGBattle\RPGBattle\bin\Debug\RPGBattle.pdb
+C:\Job\Projects\C# Projects\C-Sharp-Projects\RPGBattle\RPGBattle\obj\Debug\RPGBattle.csproj.AssemblyReference.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\RPGBattle\RPGBattle\obj\Debug\RPGBattle.csproj.CoreCompileInputs.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\RPGBattle\RPGBattle\obj\Debug\RPGBattle.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\RPGBattle\RPGBattle\obj\Debug\RPGBattle.pdb
