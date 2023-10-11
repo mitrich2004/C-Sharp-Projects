@@ -1,0 +1,7 @@
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ContosoPets\ContosoPets\bin\Debug\ContosoPets.exe.config
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ContosoPets\ContosoPets\bin\Debug\ContosoPets.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ContosoPets\ContosoPets\bin\Debug\ContosoPets.pdb
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ContosoPets\ContosoPets\obj\Debug\ContosoPets.csproj.AssemblyReference.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ContosoPets\ContosoPets\obj\Debug\ContosoPets.csproj.CoreCompileInputs.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ContosoPets\ContosoPets\obj\Debug\ContosoPets.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ContosoPets\ContosoPets\obj\Debug\ContosoPets.pdb
