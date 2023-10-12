@@ -1,0 +1,7 @@
+C:\Job\Projects\C# Projects\C-Sharp-Projects\SortOrders\SortOrders\bin\Debug\SortOrders.exe.config
+C:\Job\Projects\C# Projects\C-Sharp-Projects\SortOrders\SortOrders\bin\Debug\SortOrders.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\SortOrders\SortOrders\bin\Debug\SortOrders.pdb
+C:\Job\Projects\C# Projects\C-Sharp-Projects\SortOrders\SortOrders\obj\Debug\SortOrders.csproj.AssemblyReference.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\SortOrders\SortOrders\obj\Debug\SortOrders.csproj.CoreCompileInputs.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\SortOrders\SortOrders\obj\Debug\SortOrders.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\SortOrders\SortOrders\obj\Debug\SortOrders.pdb
