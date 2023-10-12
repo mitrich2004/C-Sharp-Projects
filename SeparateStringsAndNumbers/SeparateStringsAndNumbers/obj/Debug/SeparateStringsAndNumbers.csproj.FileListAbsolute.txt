@@ -1,0 +1,7 @@
+C:\Job\Projects\C# Projects\C-Sharp-Projects\SeparateStringsAndNumbers\SeparateStringsAndNumbers\bin\Debug\SeparateStringsAndNumbers.exe.config
+C:\Job\Projects\C# Projects\C-Sharp-Projects\SeparateStringsAndNumbers\SeparateStringsAndNumbers\bin\Debug\SeparateStringsAndNumbers.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\SeparateStringsAndNumbers\SeparateStringsAndNumbers\bin\Debug\SeparateStringsAndNumbers.pdb
+C:\Job\Projects\C# Projects\C-Sharp-Projects\SeparateStringsAndNumbers\SeparateStringsAndNumbers\obj\Debug\SeparateStringsAndNumbers.csproj.AssemblyReference.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\SeparateStringsAndNumbers\SeparateStringsAndNumbers\obj\Debug\SeparateStringsAndNumbers.csproj.CoreCompileInputs.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\SeparateStringsAndNumbers\SeparateStringsAndNumbers\obj\Debug\SeparateStringsAndNumbers.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\SeparateStringsAndNumbers\SeparateStringsAndNumbers\obj\Debug\SeparateStringsAndNumbers.pdb
