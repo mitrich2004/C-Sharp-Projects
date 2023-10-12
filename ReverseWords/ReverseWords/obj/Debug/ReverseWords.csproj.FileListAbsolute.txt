@@ -1,0 +1,7 @@
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ReverseWords\ReverseWords\bin\Debug\ReverseWords.exe.config
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ReverseWords\ReverseWords\bin\Debug\ReverseWords.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ReverseWords\ReverseWords\bin\Debug\ReverseWords.pdb
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ReverseWords\ReverseWords\obj\Debug\ReverseWords.csproj.AssemblyReference.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ReverseWords\ReverseWords\obj\Debug\ReverseWords.csproj.CoreCompileInputs.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ReverseWords\ReverseWords\obj\Debug\ReverseWords.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ReverseWords\ReverseWords\obj\Debug\ReverseWords.pdb
