@@ -1,0 +1,7 @@
+C:\Job\Projects\C# Projects\C-Sharp-Projects\TextInBrackets\TextInBrackets\obj\Debug\TextInBrackets.csproj.AssemblyReference.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\TextInBrackets\TextInBrackets\obj\Debug\TextInBrackets.csproj.CoreCompileInputs.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\TextInBrackets\TextInBrackets\bin\Debug\TextInBrackets.exe.config
+C:\Job\Projects\C# Projects\C-Sharp-Projects\TextInBrackets\TextInBrackets\bin\Debug\TextInBrackets.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\TextInBrackets\TextInBrackets\bin\Debug\TextInBrackets.pdb
+C:\Job\Projects\C# Projects\C-Sharp-Projects\TextInBrackets\TextInBrackets\obj\Debug\TextInBrackets.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\TextInBrackets\TextInBrackets\obj\Debug\TextInBrackets.pdb
