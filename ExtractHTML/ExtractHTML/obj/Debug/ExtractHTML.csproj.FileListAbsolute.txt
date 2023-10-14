@@ -1,0 +1,7 @@
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ExtractHTML\ExtractHTML\bin\Debug\ExtractHTML.exe.config
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ExtractHTML\ExtractHTML\bin\Debug\ExtractHTML.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ExtractHTML\ExtractHTML\bin\Debug\ExtractHTML.pdb
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ExtractHTML\ExtractHTML\obj\Debug\ExtractHTML.csproj.AssemblyReference.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ExtractHTML\ExtractHTML\obj\Debug\ExtractHTML.csproj.CoreCompileInputs.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ExtractHTML\ExtractHTML\obj\Debug\ExtractHTML.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ExtractHTML\ExtractHTML\obj\Debug\ExtractHTML.pdb
