@@ -1,0 +1,7 @@
+C:\Job\Projects\C# Projects\C-Sharp-Projects\FormatLetter\FormatLetter\bin\Debug\FormatLetter.exe.config
+C:\Job\Projects\C# Projects\C-Sharp-Projects\FormatLetter\FormatLetter\bin\Debug\FormatLetter.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\FormatLetter\FormatLetter\bin\Debug\FormatLetter.pdb
+C:\Job\Projects\C# Projects\C-Sharp-Projects\FormatLetter\FormatLetter\obj\Debug\FormatLetter.csproj.AssemblyReference.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\FormatLetter\FormatLetter\obj\Debug\FormatLetter.csproj.CoreCompileInputs.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\FormatLetter\FormatLetter\obj\Debug\FormatLetter.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\FormatLetter\FormatLetter\obj\Debug\FormatLetter.pdb
