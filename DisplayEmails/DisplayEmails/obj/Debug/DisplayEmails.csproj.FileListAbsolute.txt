@@ -1,0 +1,7 @@
+C:\Job\Projects\C# Projects\C-Sharp-Projects\DisplayEmails\DisplayEmails\bin\Debug\DisplayEmails.exe.config
+C:\Job\Projects\C# Projects\C-Sharp-Projects\DisplayEmails\DisplayEmails\bin\Debug\DisplayEmails.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\DisplayEmails\DisplayEmails\bin\Debug\DisplayEmails.pdb
+C:\Job\Projects\C# Projects\C-Sharp-Projects\DisplayEmails\DisplayEmails\obj\Debug\DisplayEmails.csproj.AssemblyReference.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\DisplayEmails\DisplayEmails\obj\Debug\DisplayEmails.csproj.CoreCompileInputs.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\DisplayEmails\DisplayEmails\obj\Debug\DisplayEmails.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\DisplayEmails\DisplayEmails\obj\Debug\DisplayEmails.pdb
