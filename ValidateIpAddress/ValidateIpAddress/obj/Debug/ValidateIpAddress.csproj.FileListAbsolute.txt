@@ -1,0 +1,7 @@
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ValidateIpAddress\ValidateIpAddress\bin\Debug\ValidateIpAddress.exe.config
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ValidateIpAddress\ValidateIpAddress\bin\Debug\ValidateIpAddress.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ValidateIpAddress\ValidateIpAddress\bin\Debug\ValidateIpAddress.pdb
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ValidateIpAddress\ValidateIpAddress\obj\Debug\ValidateIpAddress.csproj.AssemblyReference.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ValidateIpAddress\ValidateIpAddress\obj\Debug\ValidateIpAddress.csproj.CoreCompileInputs.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ValidateIpAddress\ValidateIpAddress\obj\Debug\ValidateIpAddress.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ValidateIpAddress\ValidateIpAddress\obj\Debug\ValidateIpAddress.pdb
