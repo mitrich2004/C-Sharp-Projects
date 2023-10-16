@@ -1,0 +1,7 @@
+C:\Job\Projects\C# Projects\C-Sharp-Projects\PettingZoo\PettingZoo\bin\Debug\PettingZoo.exe.config
+C:\Job\Projects\C# Projects\C-Sharp-Projects\PettingZoo\PettingZoo\bin\Debug\PettingZoo.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\PettingZoo\PettingZoo\bin\Debug\PettingZoo.pdb
+C:\Job\Projects\C# Projects\C-Sharp-Projects\PettingZoo\PettingZoo\obj\Debug\PettingZoo.csproj.AssemblyReference.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\PettingZoo\PettingZoo\obj\Debug\PettingZoo.csproj.CoreCompileInputs.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\PettingZoo\PettingZoo\obj\Debug\PettingZoo.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\PettingZoo\PettingZoo\obj\Debug\PettingZoo.pdb
