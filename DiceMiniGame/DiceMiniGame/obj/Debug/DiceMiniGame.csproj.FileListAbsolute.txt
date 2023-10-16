@@ -1,0 +1,7 @@
+C:\Job\Projects\C# Projects\C-Sharp-Projects\DiceMiniGame\DiceMiniGame\bin\Debug\DiceMiniGame.exe.config
+C:\Job\Projects\C# Projects\C-Sharp-Projects\DiceMiniGame\DiceMiniGame\bin\Debug\DiceMiniGame.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\DiceMiniGame\DiceMiniGame\bin\Debug\DiceMiniGame.pdb
+C:\Job\Projects\C# Projects\C-Sharp-Projects\DiceMiniGame\DiceMiniGame\obj\Debug\DiceMiniGame.csproj.AssemblyReference.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\DiceMiniGame\DiceMiniGame\obj\Debug\DiceMiniGame.csproj.CoreCompileInputs.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\DiceMiniGame\DiceMiniGame\obj\Debug\DiceMiniGame.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\DiceMiniGame\DiceMiniGame\obj\Debug\DiceMiniGame.pdb
