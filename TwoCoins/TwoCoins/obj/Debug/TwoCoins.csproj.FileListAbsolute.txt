@@ -1,0 +1,7 @@
+C:\Job\Projects\C# Projects\C-Sharp-Projects\TwoCoins\TwoCoins\bin\Debug\TwoCoins.exe.config
+C:\Job\Projects\C# Projects\C-Sharp-Projects\TwoCoins\TwoCoins\bin\Debug\TwoCoins.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\TwoCoins\TwoCoins\bin\Debug\TwoCoins.pdb
+C:\Job\Projects\C# Projects\C-Sharp-Projects\TwoCoins\TwoCoins\obj\Debug\TwoCoins.csproj.AssemblyReference.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\TwoCoins\TwoCoins\obj\Debug\TwoCoins.csproj.CoreCompileInputs.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\TwoCoins\TwoCoins\obj\Debug\TwoCoins.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\TwoCoins\TwoCoins\obj\Debug\TwoCoins.pdb
