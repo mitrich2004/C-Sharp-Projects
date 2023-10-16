@@ -1,0 +1,7 @@
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ReverseSentence\ReverseSentence\bin\Debug\ReverseSentence.exe.config
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ReverseSentence\ReverseSentence\bin\Debug\ReverseSentence.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ReverseSentence\ReverseSentence\bin\Debug\ReverseSentence.pdb
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ReverseSentence\ReverseSentence\obj\Debug\ReverseSentence.csproj.AssemblyReference.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ReverseSentence\ReverseSentence\obj\Debug\ReverseSentence.csproj.CoreCompileInputs.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ReverseSentence\ReverseSentence\obj\Debug\ReverseSentence.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\ReverseSentence\ReverseSentence\obj\Debug\ReverseSentence.pdb
