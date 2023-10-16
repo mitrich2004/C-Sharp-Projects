@@ -1,0 +1,7 @@
+C:\Job\Projects\C# Projects\C-Sharp-Projects\IsPalindrome\IsPalindrome\obj\Debug\IsPalindrome.csproj.AssemblyReference.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\IsPalindrome\IsPalindrome\obj\Debug\IsPalindrome.csproj.CoreCompileInputs.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\IsPalindrome\IsPalindrome\bin\Debug\IsPalindrome.exe.config
+C:\Job\Projects\C# Projects\C-Sharp-Projects\IsPalindrome\IsPalindrome\bin\Debug\IsPalindrome.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\IsPalindrome\IsPalindrome\bin\Debug\IsPalindrome.pdb
+C:\Job\Projects\C# Projects\C-Sharp-Projects\IsPalindrome\IsPalindrome\obj\Debug\IsPalindrome.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\IsPalindrome\IsPalindrome\obj\Debug\IsPalindrome.pdb
