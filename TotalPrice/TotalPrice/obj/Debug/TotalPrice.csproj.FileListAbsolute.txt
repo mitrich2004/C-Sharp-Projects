@@ -1,0 +1,7 @@
+C:\Job\Projects\C# Projects\C-Sharp-Projects\TotalPrice\TotalPrice\bin\Debug\TotalPrice.exe.config
+C:\Job\Projects\C# Projects\C-Sharp-Projects\TotalPrice\TotalPrice\bin\Debug\TotalPrice.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\TotalPrice\TotalPrice\bin\Debug\TotalPrice.pdb
+C:\Job\Projects\C# Projects\C-Sharp-Projects\TotalPrice\TotalPrice\obj\Debug\TotalPrice.csproj.AssemblyReference.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\TotalPrice\TotalPrice\obj\Debug\TotalPrice.csproj.CoreCompileInputs.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\TotalPrice\TotalPrice\obj\Debug\TotalPrice.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\TotalPrice\TotalPrice\obj\Debug\TotalPrice.pdb
