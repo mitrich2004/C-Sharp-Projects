@@ -1,0 +1,7 @@
+C:\Job\Projects\C# Projects\C-Sharp-Projects\WorkFlow\WorkFlow\bin\Debug\WorkFlow.exe.config
+C:\Job\Projects\C# Projects\C-Sharp-Projects\WorkFlow\WorkFlow\bin\Debug\WorkFlow.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\WorkFlow\WorkFlow\bin\Debug\WorkFlow.pdb
+C:\Job\Projects\C# Projects\C-Sharp-Projects\WorkFlow\WorkFlow\obj\Debug\WorkFlow.csproj.AssemblyReference.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\WorkFlow\WorkFlow\obj\Debug\WorkFlow.csproj.CoreCompileInputs.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\WorkFlow\WorkFlow\obj\Debug\WorkFlow.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\WorkFlow\WorkFlow\obj\Debug\WorkFlow.pdb
