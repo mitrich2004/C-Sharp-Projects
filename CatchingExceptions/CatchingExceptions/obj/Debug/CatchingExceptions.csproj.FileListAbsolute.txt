@@ -1,0 +1,7 @@
+C:\Job\Projects\C# Projects\C-Sharp-Projects\CatchingExceptions\CatchingExceptions\bin\Debug\CatchingExceptions.exe.config
+C:\Job\Projects\C# Projects\C-Sharp-Projects\CatchingExceptions\CatchingExceptions\bin\Debug\CatchingExceptions.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\CatchingExceptions\CatchingExceptions\bin\Debug\CatchingExceptions.pdb
+C:\Job\Projects\C# Projects\C-Sharp-Projects\CatchingExceptions\CatchingExceptions\obj\Debug\CatchingExceptions.csproj.AssemblyReference.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\CatchingExceptions\CatchingExceptions\obj\Debug\CatchingExceptions.csproj.CoreCompileInputs.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\CatchingExceptions\CatchingExceptions\obj\Debug\CatchingExceptions.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\CatchingExceptions\CatchingExceptions\obj\Debug\CatchingExceptions.pdb
