@@ -1,0 +1,7 @@
+C:\Job\Projects\C# Projects\C-Sharp-Projects\AverageOfEvenNumbers\AverageOfEvenNumbers\bin\Debug\AverageOfEvenNumbers.exe.config
+C:\Job\Projects\C# Projects\C-Sharp-Projects\AverageOfEvenNumbers\AverageOfEvenNumbers\bin\Debug\AverageOfEvenNumbers.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\AverageOfEvenNumbers\AverageOfEvenNumbers\bin\Debug\AverageOfEvenNumbers.pdb
+C:\Job\Projects\C# Projects\C-Sharp-Projects\AverageOfEvenNumbers\AverageOfEvenNumbers\obj\Debug\AverageOfEvenNumbers.csproj.AssemblyReference.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\AverageOfEvenNumbers\AverageOfEvenNumbers\obj\Debug\AverageOfEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\AverageOfEvenNumbers\AverageOfEvenNumbers\obj\Debug\AverageOfEvenNumbers.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\AverageOfEvenNumbers\AverageOfEvenNumbers\obj\Debug\AverageOfEvenNumbers.pdb
