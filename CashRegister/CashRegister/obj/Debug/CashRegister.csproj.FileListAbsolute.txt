@@ -1,0 +1,7 @@
+C:\Job\Projects\C# Projects\C-Sharp-Projects\CashRegister\CashRegister\bin\Debug\CashRegister.exe.config
+C:\Job\Projects\C# Projects\C-Sharp-Projects\CashRegister\CashRegister\bin\Debug\CashRegister.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\CashRegister\CashRegister\bin\Debug\CashRegister.pdb
+C:\Job\Projects\C# Projects\C-Sharp-Projects\CashRegister\CashRegister\obj\Debug\CashRegister.csproj.AssemblyReference.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\CashRegister\CashRegister\obj\Debug\CashRegister.csproj.CoreCompileInputs.cache
+C:\Job\Projects\C# Projects\C-Sharp-Projects\CashRegister\CashRegister\obj\Debug\CashRegister.exe
+C:\Job\Projects\C# Projects\C-Sharp-Projects\CashRegister\CashRegister\obj\Debug\CashRegister.pdb
